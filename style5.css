@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color:gold;
+}
+div:hover{
+    background-color:blue;
+    color:white;
+    /* transform: rotate(45deg);
+    transform: translate(   50px, 50px);
+    
+    transition: all 2s; */
+    animation-name: mymove;
+    animation-duration: 3s;
+    animation-timing-function: ease-in
+    animation-iteration-count: 5;
+}
+@keyframes mymove{
+    from{
+        background-color:gold;
+    }
+    to{
+        background-color:blue;
+    }
+    
+}
+/* div:active{
+    background-color:red;
+    color:white;
+   
+} */
+/* div:hover and div:active are pseudo classes */
+/* active is used when the element is clicked */

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+/* div{
+    display: inline;
+    background-color: #cc9292;
+}
+button{
+    display:block;
+    
+} */
+s
+h1{
+    text-align: center;
+    color: #cc9292;
+    font-size: 50px;
+    margin-top: 50px;
+}
+#box1{
+    background-color: RED;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    border: 3px solid black ;
+    border-radius: 10px;
+}
+#box2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    border: 3px solid black ;
+    border-radius: 10px;
+}
+#box3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    border: 3px solid black ;
+    border-radius: 10px;
+}
