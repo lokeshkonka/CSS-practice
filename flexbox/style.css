@@ -1,21 +1,28 @@
-html{
+html {
     margin: 0;
     padding: 0;
-
 }
-body{
+
+body {
     background-color: #423e3e;
     display: flex;
-    align-items: center;
-    width: 100vh;
-
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
 }
-h2{
+
+h2 {
     margin: 0;
     padding: 8px;
 }
-.cont{
-    width:375px;
+
+.cont {
+    width: 375px;
     min-height: 200px;
     max-height: fit-content;
     background-color: #968c8c;
@@ -23,15 +30,17 @@ h2{
     border-radius: 12px;
     margin: 20px;
 }
-.flex-cont{
-    display: flex;
-    
-   width:375px;
-    min-height: 200px;
 
+.flex-cont {
+    display: flex;
+    width: 375px;
+    min-height: 200px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    box-sizing: border-box;
 }
-.sqr{
-    
+
+.sqr {
     width: 40px;
     height: 40px;
     margin: 20px;
@@ -40,20 +49,21 @@ h2{
     align-items: center;
     border: 2px solid black;
     border-radius: 6px;
+    font-weight: bold;
+}
 
+.pastel1 {
+    background-color: rgba(255, 0, 0, 0.3);
 }
-.pastel1{
-    background-color: rgba(255,0,0,0.3);
+.pastel2 {
+    background-color: rgba(0, 255, 0, 0.3);
 }
-.pastel2{
-    background-color: rgba(0,255,0,0.3);
-}
-.pastel3{
+.pastel3 {
     background-color: rgba(16, 158, 201, 0.3);
 }
-.pastel4{
+.pastel4 {
     background-color: rgba(228, 199, 36, 0.3);
 }
-.pastel5{
+.pastel5 {
     background-color: rgba(236, 37, 220, 0.3);
 }
