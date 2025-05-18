@@ -1,5 +1,5 @@
 body{
-    background-color: #1a1a1a;
+    background-color: #000000;
     color:aliceblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
@@ -155,7 +155,7 @@ position: absolute;
  height: 3px;
  bottom: 0;
  left:0;
- background-color: black;
+ background-color: rgb(196, 141, 141);
  transform: scaleX(0);
  transition: transform 0.3s ease-in-out;
  
