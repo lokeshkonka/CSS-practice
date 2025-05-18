@@ -67,9 +67,11 @@ Throughout this project, I've referred to various resources to enhance my unders
 
 ---
 📸 Screenshots:
-![NavBar-CSS](https://github.com/user-attachments/assets/d9cc2fbe-194a-455f-9043-a3c3b0064b10)
-![Login_TailwindCSS](https://github.com/user-attachments/assets/5532d8e5-fe5e-45c6-94f7-e2e83ff1a0fa)
-![FlexBox-CSS](https://github.com/user-attachments/assets/2cf28930-3177-44e5-aa93-aae86b374766)
+![NavBar-CSS](https://github.com/user-attachments/assets/0d4bd7b8-3ef6-48b1-8b34-748cc58e67a6)
+![Login_TailwindCSS](https://github.com/user-attachments/assets/042161a7-063d-417f-951f-8c28468bc93f)
+![FlexBox-CSS](https://github.com/user-attachments/assets/196151b2-940f-41b0-816a-4d22764b3779)
+
+
 
 
           
