@@ -41,13 +41,6 @@ Explore some of the projects live:
 * **Tailwind CSS Card**: (tailwindcss/demo.html)
 
 
-## 📸 Screenshots
-
-![Webpage Design](./screenshots/webpage_design.png)
-*Sample webpage layout using Bootstrap.*
-
-![Tailwind Card](./screenshots/tailwind_card.png)
-*Custom card component styled with Tailwind CSS.*
 
 ## 🛠️ Technologies Used
 
@@ -67,8 +60,12 @@ Throughout this project, I've referred to various resources to enhance my unders
 
 ---
 📸 Screenshots:
+
+
 ![NavBar-CSS](https://github.com/user-attachments/assets/0d4bd7b8-3ef6-48b1-8b34-748cc58e67a6)
+
 ![Login_TailwindCSS](https://github.com/user-attachments/assets/042161a7-063d-417f-951f-8c28468bc93f)
+
 ![FlexBox-CSS](https://github.com/user-attachments/assets/196151b2-940f-41b0-816a-4d22764b3779)
 
 
